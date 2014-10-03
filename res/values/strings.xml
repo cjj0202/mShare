@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mShare</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Main</string>
+    <string name="title_section2">Audio</string>
+    <string name="title_section3">Video</string>
+    <string name="title_section4">Photo</string>
+    
+    
+    
+</resources>
